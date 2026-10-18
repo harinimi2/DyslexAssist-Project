@@ -1,2 +1,2 @@
 # DyslexAssist-Project
-Ce projet  est réalisé en équipe, avec Rodrigue PEKAR. Il s'agit d'un début de création d'un site pour permettre aux personnes dyslexiques de convertir un texte en un  texte plus lisible selon leur degré de dyslexie.
+Ce projet est réalisé en équipe, avec Rodrigue PEKAR. Il s'agit d'un début de création d'un site pour permettre aux personnes dyslexiques de convertir un texte en un  texte plus lisible selon leur degré de dyslexie : création de programmes Python pour faire les test d'oculométrie et de morphisme des lettres : ce test permettra de convertir le texte de manière optimale selon les besoins de l'utilisateur. Vous trouverez dans ce dépôt les codes Python pour implémenter les tests d'oculométrie
